@@ -24,6 +24,14 @@ Para este desafio você deverá consumir o seguinte endpoint API:
 
 `https://ghibliapi.herokuapp.com/films`
 
+## Intruções para baixar o projeto
+
+Você pode clonar o projeto ou fazer um fork. 
+Com o projeto na sua máquina, entre na máquina e execute: 
+
+`npm install OU yarn install`
+
+Ah, se você executar `npm start ou yarn start` e ver uma tela branca, ok! Já pode começar a codar. 😊
 
 ## Extra
 
