@@ -47,3 +47,8 @@ Se (APENAS SE) você já se sente confortável utilizando rotas em React, pode i
 O esperado é que ao clicar em um card o usuário seja direcionado para a página de detalhes do filme. Se você achar necessário consumir outros endpoints da API para popular essa tela, pode usar 😉
 
 Mais uma vez, sinta-se à vontade para criar o layout, ou pode seguir um padrão simples como o proposto. 🤘
+
+### Referências
+
+Esse layout foi elaborado pela @taniarascia. 
+[aqui tem o link do artigo onde ela ensina a consumir API's com javascript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
