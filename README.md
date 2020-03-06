@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="200" alt="Juntos Somos +">
+  <img src="logo.png" width="200">
 </p>
 
 # 
