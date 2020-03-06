@@ -50,5 +50,5 @@ Mais uma vez, sinta-se à vontade para criar o layout, ou pode seguir um padrão
 
 ### Referências
 
-Esse layout foi elaborado pela [@taniarascia](https://github.com/taniarascia)
-[aqui tem o link do artigo onde ela ensina a consumir API's com javascript](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
+Esse layout foi elaborado pela [@taniarascia](https://github.com/taniarascia).
+Aqui tem o [link](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) do artigo onde ela ensina a consumir API's com javascript utilizando esse layout. 
